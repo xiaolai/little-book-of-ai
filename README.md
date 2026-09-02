@@ -1,8 +1,8 @@
-# Vite Template
+# The Little Book of AI / 人工智能小白书
 
-This is a template for Vite.
+The source files and VitePress site for *The Little Book of AI*.
 
-## Prequsites
+## Prerequisites
 
 Please install [pnpm](https://pnpm.io/installation) as the package manager.
 
@@ -14,7 +14,7 @@ Install dependencies:
 $ pnpm i
 ```
 
-Preview:
+Start the local development server:
 
 ```bash
 $ pnpm docs:dev
