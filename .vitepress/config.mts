@@ -48,7 +48,7 @@ export default withMermaid(
           { text: '08. Learning Path Disrupted', link: '/en/08' },
           { text: '09. Be a Producer', link: '/en/09' },
           { text: '10. Using English', link: '/en/10' },
-          { text: '11. Masitering the Computer', link: '/en/11' },
+          { text: '11. Mastering the Computer', link: '/en/11' },
           { text: '12. The Biggest Limit', link: '/en/12' },
           { text: '13. Besides ChatGPT', link: '/en/13' },
           { text: '14. About Illustrations', link: '/en/14' },
@@ -58,7 +58,7 @@ export default withMermaid(
     },
 
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+        { icon: 'github', link: 'https://github.com/xiaolai/little-book-of-ai' }
       ]
     },
     lastUpdated: true,
